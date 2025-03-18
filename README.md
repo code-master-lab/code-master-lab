@@ -21,7 +21,7 @@ Want to contribute to my C tutorials? Feel free to reach out!
 
 - 🔥 Open to: C Programming Contributions, Code Reviews
 - 🤖 Contributions: Submit PRs for new tutorials or improvements!
-- 📩 Contact: [rautvivek2005@gamil.com] | [LinkedIn](www.linkedin.com/in/vivek-raut-265927348) | [Twitter]( https://x.com/Vivek_raut2005?t=RDwlrSheH19NZwpXuNye0A&s=08 )
+- 📩 Contact: [rautvivek2005@gamil.com] | [LinkedIn](https://www.linkedin.com/in/vivek-raut-265927348/) | [Twitter]( https://x.com/Vivek_raut2005?t=RDwlrSheH19NZwpXuNye0A&s=08 )
 
 ## 📢 Let's Connect
 If you find my tutorials helpful, don’t forget to ⭐ my repositories and follow me for more updates!
