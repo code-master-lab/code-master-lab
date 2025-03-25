@@ -12,9 +12,9 @@ Here are some of my featured C tutorials:
 
 | 📌 Tutorial Name | 📝 Description | 🔗 Repository |
 |---------------|---------------|-------------|
-| **Basics of C** | Introduction to C programming | [GitHub](#) |
-| **Functions in C** | A guide to functions and modular programming | [GitHub](#) |
-| **Pointers & Memory** | Understanding pointers and dynamic memory | [GitHub](#) |
+| **Basics of C** | Introduction to C programming | [GitHub](https://github.com/code-master-lab/c-language-tutorial.git) |
+| **Functions in C** | A guide to functions and modular programming | [GitHub](https://github.com/code-master-lab/c-language-tutorial.git) |
+| **Pointers & Memory** | Understanding pointers and dynamic memory | [GitHub](https://github.com/code-master-lab/c-language-tutorial.git) |
 
 ## 🤝 Collaborate with Me
 Want to contribute to my C tutorials? Feel free to reach out!
