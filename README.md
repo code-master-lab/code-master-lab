@@ -16,7 +16,7 @@ Here are some of my featured tutorials across different languages:
 | **Advanced C Concepts**  | Dive deeper into C with advanced logic topics | [GitHub](https://github.com/code-master-lab/c-language-tutorial.git) |
 | **MySQL Fundamentals**   | Learn how to create and manage databases       | [GitHub](https://github.com/code-master-lab/c-language-tutorial.git) |
 | **PHP for Beginners**    | Basics of server-side scripting with PHP       | [GitHub](https://github.com/code-master-lab/c-language-tutorial.git) |
-| **HTML & CSS Essentials**| Build and style responsive web pages           | [GitHub](https://github.com/code-master-lab/c-language-tutorial.git) |
+| **HTML & CSS Essentials**| Build and style responsive web pages           | [GitHub](https://github.com/code-master-lab/saleforceUI-UX.HTML.CSS.git) |
 
 
 
