@@ -17,11 +17,14 @@ Here are some of my featured C tutorials:
 | **Pointers & Memory** | Understanding pointers and dynamic memory | [GitHub](https://github.com/code-master-lab/c-language-tutorial.git) |
 
 ## 🤝 Collaborate with Me
-Want to contribute to my C tutorials? Feel free to reach out!
 
-- 🔥 Open to: C Programming Contributions, Code Reviews
-- 🤖 Contributions: Submit PRs for new tutorials or improvements!
-- 📩 Contact: [rautvivek2005@gamil.com] | [LinkedIn](https://www.linkedin.com/in/vivek-raut-265927348/) | [Twitter]( https://x.com/Vivek_raut2005?t=RDwlrSheH19NZwpXuNye0A&s=08 )
+Want to contribute to my skills and project? Feel free to reach out!
+
+🔥 Open to: C Programming, MySQL, PHP, HTML & CSS
+🤖 Contributions: Submit Pull Requests to improve tutorials and fix errors 
+🐞 Found a bug? Open an issue or contact me!
+📩 Contact: [rautvivek2005@gmail.com](mailto:rautvivek2005@gmail.com) | [LinkedIn](https://linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-profile)
+
 
 ## 📢 Let's Connect
 If you find my tutorials helpful, don’t forget to ⭐ my repositories and follow me for more updates!
