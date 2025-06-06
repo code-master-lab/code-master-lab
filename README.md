@@ -1,4 +1,4 @@
-# 🚀 Welcome to My GitHub Dashboard
+# 👋 Hi there, I'm Vivek Raut
 
 ## 👨‍💻 About Me
 Hey there! I'm **Vivek Raut**, a passionate software developer focused on **C language tutorials**. My goal is to help others learn C programming through clear and structured tutorials on GitHub. 
