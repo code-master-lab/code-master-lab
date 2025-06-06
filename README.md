@@ -16,14 +16,15 @@ Here are some of my featured C tutorials:
 | **Functions in C** | A guide to functions and modular programming | [GitHub](https://github.com/code-master-lab/c-language-tutorial/tree/main/functions%20and%20pointer) |
 | **Pointers & Memory** | Understanding pointers and dynamic memory | [GitHub](https://github.com/code-master-lab/c-language-tutorial.git) |
 
-## 🤝 Collaborate with Me
 
-Want to contribute to my skills and project? Feel free to reach out!
+## 🤝 Collaborate with Me  
+Want to contribute to my projects? Feel free to reach out!
 
-🔥 Open to: C Programming, MySQL, PHP, HTML & CSS
-🤖 Contributions: Submit Pull Requests to improve tutorials and fix errors 
-🐞 Found a bug? Open an issue or contact me!
+🔥 Open to: C Programming, MySQL, PHP, HTML & CSS  
+🤖 Contributions: Submit PRs for tutorials, fixes, or improvements  
+🐞 Found a bug? Open an issue or contact me!  
 📩 Contact: [rautvivek2005@gmail.com](mailto:rautvivek2005@gmail.com) | [LinkedIn](https://linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-profile)
+
 
 
 ## 📢 Let's Connect
