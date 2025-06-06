@@ -8,8 +8,8 @@ A passionate learner and aspiring developer, currently exploring multiple progra
 🌱 What I learn: Advanced concepts in C, backend with MySQL & PHP, and front-end design with HTML & CSS  
  
 
-## 📚 My C Language Tutorials
-Here are some of my featured C tutorials:
+📚 My Tutorials  
+Here are some of my featured tutorials across different languages:
 
 | 📌 Tutorial Name         | 📝 Description                                  | 🔗 Repository |
 |--------------------------|-----------------------------------------------|---------------|
