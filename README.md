@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Vivek Raut
 
 ## 👨‍💻 About Me
-Hey there! I'm **Vivek Raut**, a passionate software developer focused on **C language tutorials**. My goal is to help others learn C programming through clear and structured tutorials on GitHub. 
+A passionate learner and aspiring developer, currently exploring multiple programming languages like C, MySQL, PHP, HTML, and CSS to upskill and expand my knowledge. I create simple tutorials and hands-on projects to help others learn and grow alongside me.
 
 - 💻 Tech Stack: C, MySQL, PHP, HTML, CSS  
 - 🚀 Currently working on: C Language Tutorials  
