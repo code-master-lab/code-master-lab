@@ -3,18 +3,21 @@
 ## 👨‍💻 About Me
 A passionate learner and aspiring developer, currently exploring multiple programming languages like C, MySQL, PHP, HTML, and CSS to upskill and expand my knowledge. I create simple tutorials and hands-on projects to help others learn and grow alongside me.
 
-- 💻 Tech Stack: C, MySQL, PHP, HTML, CSS  
-- 🚀 Currently working on: C Language Tutorials  
-- 🌱 Learning: Advanced C Concepts & Data Structures  
+💻 Tech Stack: C, MySQL, PHP, HTML, CSS 
+🚀 Currently working on: New Tutorials and projects like JavaScript 
+🌱 What I learn: Advanced concepts in C, backend with MySQL & PHP, and front-end design with HTML & CSS  
+ 
 
 ## 📚 My C Language Tutorials
 Here are some of my featured C tutorials:
 
-| 📌 Tutorial Name | 📝 Description | 🔗 Repository |
-|---------------|---------------|-------------|
-| **Basics of C** | Introduction to C programming | [GitHub](https://github.com/code-master-lab/c-language-tutorial/tree/main/basic%20c%20language%20program) |
-| **Functions in C** | A guide to functions and modular programming | [GitHub](https://github.com/code-master-lab/c-language-tutorial/tree/main/functions%20and%20pointer) |
-| **Pointers & Memory** | Understanding pointers and dynamic memory | [GitHub](https://github.com/code-master-lab/c-language-tutorial.git) |
+| 📌 Tutorial Name         | 📝 Description                                  | 🔗 Repository |
+|--------------------------|-----------------------------------------------|---------------|
+| **Advanced C Concepts**  | Dive deeper into C with advanced logic topics | *GitHub (add your link)* |
+| **MySQL Fundamentals**   | Learn how to create and manage databases       | *GitHub (add your link)* |
+| **PHP for Beginners**    | Basics of server-side scripting with PHP       | *GitHub (add your link)* |
+| **HTML & CSS Essentials**| Build and style responsive web pages           | *GitHub (add your link)* |
+
 
 
 ## 🤝 Collaborate with Me  
