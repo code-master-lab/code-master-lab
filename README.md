@@ -4,7 +4,21 @@
 A passionate learner and aspiring developer, currently exploring multiple programming languages like C, MySQL, PHP, HTML, and CSS to upskill and expand my knowledge. I create simple tutorials and hands-on projects to help others learn and grow alongside me.
 
 💻 Tech Stack: C, MySQL, PHP, HTML, CSS 
+
+
+\
+
+
+
 🚀 Currently working on: New Tutorials and projects like JavaScript 
+
+
+
+
+
+
+
+
 🌱 What I learn: Advanced concepts in C, backend with MySQL & PHP, and front-end design with HTML & CSS  
  
 
