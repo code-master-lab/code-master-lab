@@ -6,16 +6,8 @@ A passionate learner and aspiring developer, currently exploring multiple progra
 💻 Tech Stack: C, MySQL, PHP, HTML, CSS 
 
 
-\
-
-
 
 🚀 Currently working on: New Tutorials and projects like JavaScript 
-
-
-
-
-
 
 
 
