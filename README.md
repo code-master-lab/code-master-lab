@@ -33,7 +33,7 @@ Want to contribute to my projects? Feel free to reach out!
 🔥 Open to: C Programming, MySQL, PHP, HTML & CSS  
 🤖 Contributions: Submit PRs for tutorials, fixes, or improvements  
 🐞 Found a bug? Open an issue or contact me!  
-📩 Contact: [rautvivek2005@gmail.com](mailto:rautvivek2005@gmail.com) | [LinkedIn](https://linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-profile)
+📩 Contact: [rautvivek2005@gmail.com](mailto:rautvivek2005@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vivek-raut-265927348/) | [Twitter](https://twitter.com/your-profile)
 
 
 
