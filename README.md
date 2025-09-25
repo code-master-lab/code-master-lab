@@ -10,7 +10,7 @@ A passionate learner and aspiring developer, currently exploring multiple progra
 Awarded: September 16, 2025  
 Valid until: September 16, 2027  
 
-![Oracle Certificate](https://i.imgur.com/yourimageid.png)
+![AI Certificate](https://raw.githubusercontent.com/code-master-lab/AI-certificate/main/OCI25AICFA.jpeg)
 
 [🔗 Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=83E0A4D722FF740A76E42D8EA6B85A2FAFB2A9D99E4E21D4DA9D1A4AD8936762)
 
