@@ -18,7 +18,7 @@ Valid until: September 16, 2027
 
 🚀 Currently working on: New Tutorials and projects like JavaScript 
 
-🌱 What I learn: Advanced concepts in C, backend with MySQL & PHP, and front-end design with HTML & CSS  
+🌱 What I learn: Advanced concepts in C, backend with MySQL & PHP, and front-end design with HTML & CSS & Javascript 
  
 📚 My Tutorials  
 Here are some of my featured tutorials across different languages:
