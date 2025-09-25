@@ -10,7 +10,8 @@ A passionate learner and aspiring developer, currently exploring multiple progra
 Awarded: September 16, 2025  
 Valid until: September 16, 2027  
 
-[![Oracle Certified Foundations Associate Certificate](assets/oracle-foundations-cert.png)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=83E0A4D722FF740A76E42D8EA6B85A2FAFB2A9D99E4E21D4DA9D1A4AD8936762)  
+![Oracle Certified Foundations Associate Certificate](assets/oracle-ai-foundations-certificate.png)
+
 [🔗 Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=83E0A4D722FF740A76E42D8EA6B85A2FAFB2A9D99E4E21D4DA9D1A4AD8936762)
 
 💻 Tech Stack: C, MySQL, PHP, HTML, CSS 
