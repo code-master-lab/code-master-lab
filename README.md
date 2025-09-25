@@ -10,7 +10,7 @@ A passionate learner and aspiring developer, currently exploring multiple progra
 Awarded: September 16, 2025  
 Valid until: September 16, 2027  
 
-![AI Certificate](https://github.com/code-master-lab/AI-certificate/blob/main/eCertificate.png) 
+<img src="https://raw.githubusercontent.com/code-master-lab/AI-certificate/main/eCertificate.png" alt="AI Certificate" width="600"/>
 
 [🔗 Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=83E0A4D722FF740A76E42D8EA6B85A2FAFB2A9D99E4E21D4DA9D1A4AD8936762)
 
